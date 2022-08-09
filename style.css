@@ -18,6 +18,7 @@ body {
 
 h1 {
     margin: 0 0 5%;
+    font-size: 3em;
 }
 
 .image__container {
@@ -33,4 +34,5 @@ img {
 h2 {
     text-decoration: underline;
     margin: 1.6em 0;
+    font-size: 2em;
 }
